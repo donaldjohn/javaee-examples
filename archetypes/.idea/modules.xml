@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/archetypes.iml" filepath="$PROJECT_DIR$/archetypes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jaxrs-service-archetype/jaxrs-service-archetype.iml" filepath="$PROJECT_DIR$/jaxrs-service-archetype/jaxrs-service-archetype.iml" />
+    </modules>
+  </component>
+</project>
